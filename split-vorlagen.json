@@ -1,0 +1,44 @@
+[
+ {
+  "name": "V03-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "raw/f11-pool-staudengarten-full.jpg",
+  "primary": "#982C2E",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN KITZINGEN (97318)",
+  "headline": [
+   "Mitarbeiter",
+   "Landschaftsarchitektur (m/w/d)"
+  ],
+  "checkliste": [
+   "Bis zu 4.490 € pro Monat",
+   "Unbefristet & teilweise Homeoffice",
+   "Schwerpunkt Ausführungsplanung"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "name": "V03-checkliste",
+  "format": "9x16",
+  "logo": "logo-hd.png",
+  "foto": "raw/f10-park-baeume-full.jpg",
+  "primary": "#982C2E",
+  "zoom_9x16": 1.0,
+  "fokus_9x16": [
+   0.5,
+   0.4
+  ],
+  "kicker": "KITZINGEN (97318)",
+  "headline": [
+   "Mitarbeiter",
+   "Landschaftsarchitektur (m/w/d)"
+  ],
+  "cta": "Job-Angebot in 60 Sek. erhalten"
+ }
+]

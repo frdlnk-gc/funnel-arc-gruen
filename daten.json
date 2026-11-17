@@ -1,0 +1,145 @@
+{
+ "firma": "arc.grün",
+ "firma_genitiv": "von arc.grün aus Kitzingen",
+ "stelle": "Mitarbeiter Landschaftsarchitektur (m/w/d)",
+ "ort": "Kitzingen",
+ "plz": "97318",
+ "stelle_id": 1480,
+ "arbeitsbereich": "Landschaftsarchitektur",
+ "farbe_primary": "#982C2E",
+ "farbe_secondary": "#2B2B2B",
+ "region_badge": "Kitzingen & Umgebung",
+ "benefit_top": "Bis zu 4.490 € pro Monat & teilweise Homeoffice",
+ "benefits": [
+  "Bis zu 4.490 € pro Monat – mit inflationsangepasster Gehaltsentwicklung",
+  "Unbefristet, in Vollzeit oder Teilzeit – teilweise Homeoffice",
+  "Jahresarbeitszeitmodell mit Überstundenausgleich",
+  "Übergesetzliche Urlaubstage + 1 Zusatztag je drei Jahre (bis max. 33 Tage)",
+  "3 Tage bezahlte Fortbildung pro Jahr",
+  "Vermögenswirksame Leistungen oder Zuschuss zur Rentenversicherung bzw. zum Kindergarten",
+  "Angebote für Betriebsrenten & Jubiläumsbonus",
+  "Beteiligung an den Beitragskosten zum bdla oder SRL",
+  "Ergonomische Büroarbeitsplätze & aktuellste Soft- und Hardware",
+  "Dienstrad, Büro-E-Bike & Zuschuss zu öffentlichen Verkehrsmitteln",
+  "Bezahlte Weihnachtsfeier & zweitägiger Betriebsausflug alle zwei Jahre"
+ ],
+ "aufgaben": [
+  "Du arbeitest im Team unter der Leitung eines erfahrenen Landschaftsarchitekten",
+  "Du bist an den verschiedensten Projekten beteiligt – vom Privatgarten über Parkanlagen und Straßenraumgestaltung bis zu Spiel- und Sportanlagen",
+  "Dein Schwerpunkt: Ausführungsplanung sowie Vorbereitung und Mitwirkung bei der Vergabe",
+  "Zum Teil übernimmst du die Bauüberwachung – du verbindest Entwurf und technische Umsetzung (LPH 5–8)"
+ ],
+ "anforderung": "Ein Bachelor- oder Masterabschluss in der Landschaftsarchitektur, solide Kenntnisse der Bautechnik, Berufserfahrung in der Ausführungsplanung und mit Leistungsverzeichnissen sowie ein sicherer Umgang mit CAD (Vectorworks, AutoCAD).",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Landschaftsarchitektur",
+   "icon": "🌳",
+   "qualifikationen": [
+    {
+     "label": "Bachelor/Master + Praxis in der Ausführungsplanung",
+     "icon": "🏅"
+    },
+    {
+     "label": "Bachelor/Master, noch wenig Praxis",
+     "icon": "🎓"
+    },
+    {
+     "label": "Noch im Studium",
+     "icon": "🔄"
+    }
+   ]
+  },
+  {
+   "label": "Bautechnik / Landschaftsbau",
+   "icon": "🏗️",
+   "qualifikationen": [
+    {
+     "label": "Bauingenieur (Studium)",
+     "icon": "🎓"
+    },
+    {
+     "label": "Techniker / Meister",
+     "icon": "🏅"
+    },
+    {
+     "label": "Praxis ohne Studium",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Abgeschlossenes Studium",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Quereinsteiger",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "fuehrerschein_optionen": [
+  {
+   "label": "Ja, Klasse B",
+   "icon": "🚗"
+  },
+  {
+   "label": "Ja, Klasse B + BE",
+   "icon": "🚚"
+  },
+  {
+   "label": "Nein",
+   "icon": "❌"
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "1994",
+    "label": "gegründet"
+   },
+   {
+    "zahl": "31",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "✓",
+    "label": "Unterfranken"
+   }
+  ],
+  "text": "Seit mehr als 30 Jahren ist arc.grün in der Region Unterfranken und darüber hinaus führend in der Entwicklung und Gestaltung von Konzepten für nachhaltige, langlebige Freiräume, Landschaften und Städte – mit Blick auf Biodiversität und Ressourcenschutz. Teamfähigkeit und Verlässlichkeit stehen an erster Stelle, dazu Rücksicht auf Freizeit, Familie und Freunde."
+ },
+ "kunde_tab": "60 arc grün Kitzingen",
+ "quelle": "https://arc-gruen.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Kitzingen (97318)"
+ },
+ "hero_bild": "img/hero-mainufer-kitzingen.jpg",
+ "bilder": [
+  "img/f5-fussgaengerzone.jpg",
+  "img/f8-spielplatz-holz.jpg",
+  "img/f11-pool-staudengarten.jpg",
+  "img/f10-park-baeume.jpg",
+  "img/f4-innenhof-baum.jpg",
+  "img/f9-steg-bach.jpg",
+  "img/f2-weg-sitzplatz.jpg",
+  "img/f6-weg-steg.jpg",
+  "img/f1-platz-holzhaus.jpg",
+  "img/f3-baumreihen-wiese.jpg",
+  "img/f7-spielplatz-eroeffnung.jpg"
+ ],
+ "meta_geo": [
+  "Steigweg 24, 97318 Kitzingen"
+ ]
+}

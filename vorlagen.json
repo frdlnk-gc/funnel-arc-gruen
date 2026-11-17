@@ -1,0 +1,64 @@
+{
+ "firma": "arc.grün",
+ "p": "#982C2E",
+ "stelle": "Mitarbeiter Landschaftsarchitektur (m/w/d)",
+ "ort": "Kitzingen",
+ "umg": "Kitzingen · Würzburg · Dettelbach",
+ "zentrum": [
+  49.7308696,
+  10.1477525
+ ],
+ "logo": "logo-hd.png",
+ "zwei": {
+  "h": "Du bringst Entwürfe in die Umsetzung.",
+  "a": [
+   "Straßenraum",
+   "raw/f5-fussgaengerzone-full.jpg",
+   "62% 50%"
+  ],
+  "b": [
+   "Spielanlagen",
+   "raw/f8-spielplatz-holz-full.jpg",
+   "45% 55%"
+  ]
+ },
+ "z_T": 480,
+ "s_photo": [
+  "raw/f10-park-baeume-full.jpg",
+  "50% 50%"
+ ],
+ "sticker": [
+  [
+   "Bis zu 4.490 € pro Monat",
+   60,
+   330,
+   -4,
+   "linear-gradient(135deg,#FFFFFF,#E9EEF2)",
+   "#1B1B1B"
+  ],
+  [
+   "Teilweise Homeoffice",
+   520,
+   450,
+   3,
+   "linear-gradient(135deg,#FFE88A,#FFC531)",
+   "#1B1B1B"
+  ],
+  [
+   "3 Tage Fortbildung im Jahr",
+   60,
+   930,
+   -3,
+   "linear-gradient(135deg,#D6ECFF,#8EC5FF)",
+   "#0B2A4A"
+  ],
+  [
+   "Dienstrad & Büro-E-Bike",
+   470,
+   1050,
+   2,
+   "linear-gradient(135deg,#FFFFFF,#E9EEF2)",
+   "#1B1B1B"
+  ]
+ ]
+}

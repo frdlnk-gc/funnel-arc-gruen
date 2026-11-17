@@ -1,0 +1,37 @@
+[
+ {
+  "name": "V04-collage",
+  "logo": "logo-weiss.png",
+  "fotos": [
+   "raw/f5-fussgaengerzone-full.jpg",
+   "raw/f8-spielplatz-holz-full.jpg",
+   "raw/f11-pool-staudengarten-full.jpg"
+  ],
+  "fokus": [
+   [
+    0.6,
+    0.5
+   ],
+   [
+    0.5,
+    0.55
+   ],
+   [
+    0.5,
+    0.5
+   ]
+  ],
+  "primary": "#982C2E",
+  "headline": [
+   "Mitarbeiter",
+   "Landschaftsarchitektur"
+  ],
+  "headline_zusatz": "(m/w/d)",
+  "ort": "Kitzingen (97318) & Umgebung",
+  "cta": [
+   "Jetzt unverbindliches",
+   "Job-Angebot erhalten –",
+   "mit 1 Klick!"
+  ]
+ }
+]
